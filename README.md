@@ -10,7 +10,7 @@
     <h5>Age: 19</h5>
     <h5>Address: Buaya, Lapu-lapu City</h5>
     <h5>Gender: Female</h5>
-    <h5>Description: "adaptable & dedicated"</h5>
+    <h5>Description of yourself: "adaptable & dedicated"</h5>
 
 <p>   
     <h5>Study Load: </h5>
